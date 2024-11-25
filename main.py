@@ -8,8 +8,8 @@ intents.members = True    # Member Intent
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-ONLINE_ROLE_ID = 123456789012345678  # Online role ID
-OFFLINE_ROLE_ID = 234567890123456789  # Offline role ID
+ONLINE_ROLE_ID = Role_ID  # Online role ID
+OFFLINE_ROLE_ID = Role_ID  # Offline role ID
 
 @bot.event
 async def on_ready():
