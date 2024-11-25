@@ -15,6 +15,8 @@
 # pip install discord.py
 
 # Replace BOT_TOKEN with your bot token
+
+# Replace Role_ID with your online/offline role.
 ```
 
 ## For what purpose
