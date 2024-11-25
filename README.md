@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/M-DEX-1"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="DEX" width="200"></a>
+  <a href="https://github.com/M-DEX-1"><img src="https://raw.githubusercontent.com/DEX/TEST/main/assets/29157ceb760c50f50038894e36a36e52.jpg" alt="DEX" width="200"></a>
   <br>
   DEX
   <br>
