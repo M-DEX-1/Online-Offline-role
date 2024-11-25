@@ -16,3 +16,11 @@
 
 # Replace BOT_TOKEN with your bot token
 ```
+
+## For what purpose
+
+```bash
+
+# Assign online role to online user 
+
+# Assign offline role to offline user ```
